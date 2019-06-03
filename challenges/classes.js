@@ -43,7 +43,7 @@ class CubeMaker extends ClassyCuboidMaker {
       (this.length != this.width || this.length != this.height)
     ) {
       console.log(
-        `Using 'length' for all edges dimensions. You've been warned!`
+        `Using 'length' for all dimensions. You've been warned!`
       );
     }
 
